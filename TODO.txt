@@ -1,0 +1,22 @@
+Project manipulation
+	Resize
+	Crop to selection
+	Move within
+
+Export
+	To PNG
+
+Clipboard
+	
+
+Multi Windows
+	Requires support from TextUI
+
+Scrolling editing area
+
+Transparent colour
+
+Partial editing
+	Editing is made up of three components: character, foreground colour, and background colour
+	Would be useful to only draw in selected components
+
