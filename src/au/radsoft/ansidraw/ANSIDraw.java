@@ -28,7 +28,7 @@ class ANSIDraw extends Screen
     public static void main(String s[])
         throws java.io.IOException
     {
-        ConsoleUtils.realloc();
+        //ConsoleUtils.realloc();
         Console console = ConsoleUtils.create("ANSI Draw", 80, 50, true);
         try
         {
