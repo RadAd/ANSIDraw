@@ -3,6 +3,7 @@
     <property name="project.displayname"  value="ANSI Draw"/>
     <property name="project.mainclass"    value="au.radsoft.ansidraw.ANSIDraw"/>
     <property name="project.version"      value="1.0"/>
+    <property name="project.dep"          value="../TextUI"/>
     
     <import file="radjava/radjava.xml"/>
     
